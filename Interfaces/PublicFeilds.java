@@ -1,9 +1,9 @@
-/* 8. Create a PUBLIC interface with fields and methods, fields should
+/* 1. Create a PUBLIC interface with fields and methods, fields should
 have values assigned Implement this interface to some class and print 
 the values of the interface fields and call the interface methods
-9. Create a PRIVATE or PROTECTED interface and print the values as above scenario.
-10. Create an interface with private, public and protected fields.
-11.  Create an interface with static final variable*/
+2. Create a PRIVATE or PROTECTED interface and print the values as above scenario.
+3. Create an interface with private, public and protected fields.
+4.Create an interface with static final variable*/
 
 package Interfaces;
 
